@@ -32,23 +32,10 @@
 
 <div align="center">
   <a href="https://github.com/HigorCoding">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorCoding&show_icons=true&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorCoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/HigorCoding">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorCoding&layout=compact&langs_count=8&card_width=320" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorCoding&layout=compact&langs_count=8&card_width=300&theme=tokyonight"/>
   </a>
 </div>
-
----
-
-### 📌 Projetos em destaque
-
-- [Nome do Projeto 1](https://github.com/HigorCoding/projeto1) – Pequena descrição
-- [Nome do Projeto 2](https://github.com/HigorCoding/projeto2) – Pequena descrição
-
----
-
-### 💬 Vamos conversar?
-
-Se quiser trocar ideias sobre tecnologia ou quiser ver meus projetos, me chama por e-mail ou pelo LinkedIn!
 
