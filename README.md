@@ -31,14 +31,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <div align="center">
   <a href="https://github.com/HigorCoding">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorCoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=HigorCoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60" 
+         alt="HigorCoding GitHub Status"/>
   </a>
   <a href="https://github.com/HigorCoding">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorCoding&layout=compact&langs_count=8&card_width=300&theme=tokyonight"/>
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorCoding&layout=compact&langs_count=8&card_width=300&theme=tokyonight" 
+         alt="HigorCoding linguagens mais usadas"/>
   </a>
 </div>
+
+---
+
+### ⏱️ WakaTime Status
+
+<div align="center">
+  <a href="https://wakatime.com/@HigorCoding">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=HigorCoding&theme=tokyonight&layout=compact" 
+         alt="WakaTime Status"/>
+  </a>
+</div>
+
+
 
